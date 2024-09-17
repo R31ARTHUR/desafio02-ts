@@ -7,6 +7,7 @@ import {
 } from '@chakra-ui/react'
 import { login } from './services/login';
 import { Header } from './components/Header/Header';
+import { Botao } from './components/Button/Button';
 
 function App() {
   return (
@@ -20,9 +21,7 @@ function App() {
           <Input placeholder="email" />
           <Input placeholder="password" />
           <Center>
-            <Button onClick={login} colorScheme='teal' size='sm' width='100%' marginTop='5px'>
-              Button
-            </Button>
+            <Botao onClick={login} />
           </Center>
         </Box>
       </Box>
