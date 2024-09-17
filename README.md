@@ -1,5 +1,6 @@
 # Desenvolvendo o Dio Bank
 desenvolvido por [Nathally Souza](https://github.com/nathyts)
+modificado por [Maxwell Chaves](https://github.com/maxwelldeveloper7)
 
 #### Projeto desenvolvido com React
 
@@ -10,7 +11,7 @@ desenvolvido por [Nathally Souza](https://github.com/nathyts)
 
 1 - Clone o repositório
 
-2 - Instale as dependeências
+2 - Instale as dependências
     
     npm install
 
